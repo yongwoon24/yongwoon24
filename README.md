@@ -9,6 +9,10 @@ Python을 통한 데이터 시각화/머신러닝기법/자동화 API에
 
 제 레포지토리를 확인해 주세요!
 
+웹기반 플랫폼 및 ERP 구현  
+데이터 시각화, OCR기능, 사용자 경험 기반 추천 알고리즘 구현  
+yeonseongjeong/profitAnalysis 
+
 <!--
 **yongwoon24/yongwoon24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
