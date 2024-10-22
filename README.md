@@ -7,12 +7,9 @@ Python을 통한 데이터 시각화/머신러닝기법/자동화 API에
 특히 Brity RPA를 통한 자동화 시스템, OCR 처리와 데이터베이스 관리 통합, 추천 알고리즘 최적화 등 복잡한 문제 해결에 흥미를 느끼고 있습니다.
 
 
-제 레포지토리를 확인해 주세요!
+아래 제 레포지토리를 확인해 주세요!
 
-웹기반 플랫폼 및 ERP 구현  
-데이터 시각화, OCR기능, 사용자 경험 기반 추천 알고리즘 구현  
-https://github.com/yeonseongjeong/profitAnalysis  
-yeonseongjeong/profitAnalysis 
+
 
 <!--
 **yongwoon24/yongwoon24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
